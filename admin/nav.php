@@ -2,7 +2,7 @@
     <ul class="sidebar-nav-container">
         <div class="sidebar-logo">
             <img src="../assets/images/urbizlogo-transparent.png">
-            <h3>MWSDO</h3>
+            <h3>MSWDO</h3>
         </div>
         <hr class="sidebar-divider">
         <li class="sidebar-nav-item" onclick='change_location("home.php")'><span class="glyphicon glyphicon-dashboard" aria-hidden="true"></span><a href="#">Dashboard</a></li>

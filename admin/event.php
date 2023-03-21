@@ -158,7 +158,7 @@
 </body>
 </html>
 <script>
-    const host = 'http://localhost:8888/mwsdo/';
+    const host = 'http://localhost/mswdo/';
     $(document).ready(function(){
         $(".event-imgs").owlCarousel();
     });

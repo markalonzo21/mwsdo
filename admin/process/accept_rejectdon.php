@@ -1,7 +1,7 @@
 <?php
     include "../../connect/coon.php";
     include "../../objects/donordetail.php";
-    include "../../objects/notification.php";
+    require_once("../../objects/notification.php");
     $donor=new Donor_detail();
     $notif = new Notification();
     $donor->set_id($_POST['id'],$con);

@@ -5,7 +5,7 @@
 <div class="login-header">
     <img src="assets/images/urbizlogo.png">
     <div class="login-header-title">
-        <h3 class="org">MWSDO</h3>
+        <h3 class="org">MSWDO</h3>
         <h3>Calamity Assistance Request and Monitoring System</h3>
     </div>
 </div>

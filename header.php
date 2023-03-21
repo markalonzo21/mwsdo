@@ -5,7 +5,7 @@
     $broad=new Broadcast();
     $mes=$broad->select($con);
 
-    define('PROJECT_ROOT', 'http://localhost:8888/mwsdo/');
+ 
 ?>
 
 <!DOCTYPE html>
@@ -13,7 +13,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>MWSDO</title>
+        <title>MSWDO</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <?php echo '<script src="'.PROJECT_ROOT.'jquery.min.js"></script>'; ?>
@@ -38,7 +38,7 @@
         <?php echo '<script src="'.PROJECT_ROOT.'assets/js/jquery.ph-locations-v1.0.0.js"></script>'; ?>
     <!-- <script src="assets/js/bootstrap.min.js"></script> -->
         <script>
-            const host = 'http://localhost:8888/mwsdo/';
+            const host = 'http://localhost/mswdo/';
         </script>
 
         <style>

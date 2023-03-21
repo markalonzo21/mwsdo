@@ -20,7 +20,7 @@
      <head>
         <script src="../jquery.min.js"></script>
         <meta charset="utf-8">
-        <title>DSWD</title>
+        <title>MSWDO</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <script src="../jquery.min.js"></script>
@@ -60,7 +60,7 @@
         <hr>
         <center><img src="../assets/images/urbizlogo-transparent.png" width="150px;">
         <div>
-            <h3 style="font-weight: bold;">MWSDO</h3>
+            <h3 style="font-weight: bold;">MSWDO</h3>
             <h3>Calamity Assistance Request and Monitoring System</h3>
         </div>
             <br><br>

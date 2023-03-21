@@ -1,5 +1,5 @@
 <?php
-    include '../notification.php';
+    require_once('notification.php');
 
     class Donor_detail{ 
         var $id;

@@ -6,7 +6,7 @@
 ?>
 <html>
     <head>
-        <title>MWSDO</title>
+        <title>MSWDO</title>
         <script src="../jquery.min.js"></script>
     </head>
     <style>
@@ -112,7 +112,7 @@
             <div class="admin-logo-container">
                 <img class="admin-logo" src="../assets/images/urbizlogo.png">
                 <div>
-                    <h2>MWSDO</h2>
+                    <h2>MSWDO</h2>
                     <h3>Calamity Assistance Request and Monitoring System</h3>
                 </div>
             </div>
